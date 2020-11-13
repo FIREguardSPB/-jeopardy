@@ -1,12 +1,245 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+      
     },
-      {
-      "id": 2,
-      "title": "by"
+    {
+      "id": 1,
+      "title": "hello",
+      "question": "Фамилия какого композитора похожа на выстрел охотника?",
+      "answer": "Бах",
+      completed: false,
+      cost: 400
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Кто говорит на всех языках?",
+      "answer": "Эхо",
+      completed: false,
+      cost: 600
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Из какого полотна не сшить себе рубашку?",
+      "answer": "Железнодорожного",
+      completed: false,
+      cost: 800
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какое колесо не вертится в автомобиле во время движения?",
+      "answer": "Запасное",
+      completed: false,
+      cost: 1000
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
+    },
+     {
+      "id": 1,
+      "title": "hello",
+      "question": "Какая из нот нужна для супа?",
+      "answer": "Соль",
+      completed: false,
+      cost: 200
     }
   ]
 }
