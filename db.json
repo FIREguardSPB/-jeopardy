@@ -2,244 +2,125 @@
   "todos": [
     {
       "id": 1,
-      "title": "hello",
+      "title": "Тема 1",
       "question": "Какая из нот нужна для супа?",
       "answer": "Соль",
-      completed: false,
-      cost: 200
+      "completed": false,
+      "cost": 200
       
     },
     {
       "id": 2,
-      "title": "hello",
+      "title": "Тема 1",
       "question": "Фамилия какого композитора похожа на выстрел охотника?",
       "answer": "Бах",
-      completed: false,
-      cost: 400
+      "completed": false,
+      "cost": 400
     },
      {
       "id": 3,
-      "title": "hello",
+      "title": "Тема 1",
       "question": "Кто говорит на всех языках?",
       "answer": "Эхо",
-      completed: false,
-      cost: 600
+      "completed": false,
+      "cost": 600
     },
      {
       "id": 4,
-      "title": "hello",
+      "title": "Тема 1",
       "question": "Из какого полотна не сшить себе рубашку?",
       "answer": "Железнодорожного",
-      completed: false,
-      cost: 800
+      "completed": false,
+      "cost": 800
     },
      {
       "id": 5,
-      "title": "hello",
+      "title": "Тема 1",
       "question": "Какое колесо не вертится в автомобиле во время движения?",
       "answer": "Запасное",
-      completed: false,
-      cost: 1000
+      "completed": false,
+      "cost": 1000
     },
      {
       "id": 6,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 2",
+      "question": "Равносторонний прямоугольник?",
+      "answer": "Квадрат",
+      "completed": false,
+      "cost": 200
     },
      {
       "id": 7,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 2",
+      "question": "Что можно видеть с закрытыми глазами?",
+      "answer": "Сон",
+      "completed": false,
+      "cost": 400
     },
      {
       "id": 8,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 2",
+      "question": "Чем кончаются день и ночь?",
+      "answer": "Мягким знаком",
+      "completed": false,
+      "cost": 600
     },
      {
       "id": 9,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 2",
+      "question": "Какие часы показывают правильное время два раза в сутки?",
+      "answer": "Которые остановились",
+      "completed": false,
+      "cost": 800
     },
      {
       "id": 10,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 2",
+      "question": "Какой месяц короче всех?",
+      "answer": "Май",
+      "completed": false,
+      "cost": 1000
     },
      {
       "id": 11,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
+      "title": "Тема 3",
+      "question": "Сколько горошин может войти в один стакан?",
+      "answer": "Ни одной",
       completed: false,
       cost: 200
     },
      {
       "id": 12,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "title": "Тема 3",
+      "question": "Что стоит между окном и дверью?",
+      "answer": "И",
+      "completed": false,
+      "cost": 400
     },
      {
       "id": 13,
       "title": "hello",
       "question": "Какая из нот нужна для супа?",
       "answer": "Соль",
-      completed: false,
-      cost: 200
+      "completed": false,
+      "cost": 600
     },
      {
       "id": 14,
       "title": "hello",
       "question": "Какая из нот нужна для супа?",
       "answer": "Соль",
-      completed: false,
-      cost: 200
+      "completed": false,
+      "cost": 800
     },
      {
       "id": 15,
       "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 16,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 17,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 18,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 19,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 20,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 21,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 22,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 23,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 24,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 25,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 26,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 27,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 28,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 29,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
-    },
-     {
-      "id": 30,
-      "title": "hello",
-      "question": "Какая из нот нужна для супа?",
-      "answer": "Соль",
-      completed: false,
-      cost: 200
+      "question": "Если пять кошек ловят пять мышей за пять минут, то сколько времени нужно одной кошке, чтобы поймать одну мышку?",
+      "answer": "5 минут",
+      "completed": false,
+      "cost": 1000
     }
+   
   ]
 }
