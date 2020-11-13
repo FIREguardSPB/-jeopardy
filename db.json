@@ -86,8 +86,8 @@
       "title": "Тема 3",
       "question": "Сколько горошин может войти в один стакан?",
       "answer": "Ни одной",
-      completed: false,
-      cost: 200
+      "completed": false,
+      "cost": 200
     },
      {
       "id": 12,
